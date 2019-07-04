@@ -19,11 +19,11 @@ msgstr ""
 
 #: ../../orm/session_transaction.rst:3
 msgid "Transactions and Connection Management"
-msgstr ""
+msgstr "트랜잭션과 컨넥션 관리"
 
 #: ../../orm/session_transaction.rst:8
 msgid "Managing Transactions"
-msgstr ""
+msgstr "트랜잭션 관리하기"
 
 #: ../../orm/session_transaction.rst:10
 msgid ""
